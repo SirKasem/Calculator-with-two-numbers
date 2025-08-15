@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #f2709c, #ff9472);
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+#Container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid none;
+}
+
+h1{
+    color: #ffe;
+    font-size: xx-large;
+    font-weight: 500;
+}
+label{
+    color: #ffe;
+    font-size: larger;
+    font-weight: 500p;
+    padding: 10px;
+    margin: 10px;
+}
+input{
+    background-color: #28282b;
+    color: #ffe;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ffe;
+    border-radius: 10px;
+}
+select{
+    margin: 10px;
+    padding: 5px;
+    background-color: #28282b;
+    color: #ffe;
+    font-size: larger;
+    font-weight: 500;
+    border: 1px solid #ffe;
+    border-radius: 10px;
+}
+button{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: #ffe;
+    color: #28282b;
+    font-size: x-large;
+    font-weight: 500;
+    border: 1px solid #f2709c;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: #28282b;
+    color: #ffe;
+}
+p{
+    color: #ffe;
+    font-size: x-large;
+    font-weight: 500;
+}
